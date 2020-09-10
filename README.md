@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Throughout the course of this project, the most challenging aspect was removing items from the recycler view. I found when the app was executed without compleley completing onItemLongClicked and OnLongClick both overrided functions would get altered.  
 
 ## License
 
